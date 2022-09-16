@@ -1,2 +1,2 @@
 # ScriptsAllTheThings
-### Interesting scripts created by ngduyquockhanh
+### Basic scripts created by ngduyquockhanh
